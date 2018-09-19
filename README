@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarcelloporcu%2Ftest_python_2_7_15.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarcelloporcu%2Ftest_python_2_7_15?ref=badge_shield)
+
 This is Python version 2.7.15
 =============================
 
@@ -1273,3 +1275,7 @@ That's all, folks!
 
 
 --Guido van Rossum (home page: http://www.python.org/~guido/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarcelloporcu%2Ftest_python_2_7_15.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarcelloporcu%2Ftest_python_2_7_15?ref=badge_large)
